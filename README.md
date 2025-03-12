@@ -1,4 +1,4 @@
-Experiências de Aprendizagem da disciplina Estruturas de Dados, utilizando Python.
+Experiências de Aprendizagem da disciplina Estrutura de Dados, utilizando Python.
 
 Experiência 1: criar uma estrutura de dados para um sistema de faculdade.
 Experiência 2: montar uma estrutura de árvore binária, com as funções mais comuns.
